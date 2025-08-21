@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Peush Khajuria  
 
-<!--
-**peush007/peush007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech IT Student (3rd Semester) @ Parul University  
+🌍 From Jammu & Kashmir, India  
 
-Here are some ideas to get you started:
+## 🚀 Currently Learning
+- Data Structures & Algorithms in **C**
+- **Java** (OOPs, Core Java)
+- **DBMS** (SQL, RDBMS concepts)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills (so far)
+- **Languages:** C, Java  
+- **Databases:** MySQL (learning DBMS)  
+
+## 📬 Connect with Me
+- ✉️ Email: peushkhajuria@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/peush-khajuria)  
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=peush007&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=peush007&layout=compact&theme=radical)
