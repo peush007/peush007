@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Peush Khajuria  
 
-🎓 B.Tech IT Student (3rd Semester) @ Parul University  
+🎓 B.Tech IT Student (4th Semester) @ Parul University  
 🌍 From Jammu & Kashmir, India  
 
 ## 🚀 Currently Learning
