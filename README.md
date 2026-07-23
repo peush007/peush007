@@ -125,18 +125,6 @@ An AI-powered placement optimization system that helps students improve employab
 
 ---
 
-## 📊 Data Science Journey
-
-A structured repository documenting my complete Data Science learning roadmap, including Python, Statistics, SQL, Machine Learning, AI, notes, and hands-on implementations.
-
----
-
-## 💻 Java DSA Repository
-
-A growing collection of optimized Java solutions for Data Structures & Algorithms with explanations, dry runs, and interview-focused approaches.
-
----
-
 ## 🌐 NS Connect
 
 A Java-based social networking platform featuring authentication, profile management, database integration, and interactive communication.
